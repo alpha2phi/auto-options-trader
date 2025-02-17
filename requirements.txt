@@ -1,0 +1,6 @@
+ib_insync
+pandas
+numpy
+yaml
+matplotlib
+backtrader
